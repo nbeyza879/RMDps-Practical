@@ -1,2 +1,3 @@
 # RMDps-Practical
-First Repository for the RMP Course
+My First Repository for the RMP Course
+Author: N. Beyza Gocer

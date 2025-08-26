@@ -7,3 +7,6 @@ This is my first GitHub repository for the MLOps practical session
 ##About Me
 Hi, I'm Beyza
 I'm learning how to use GitHub Issues.
+
+## Fun Fact
+Hello world!
